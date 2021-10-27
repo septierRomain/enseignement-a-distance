@@ -28,7 +28,7 @@ const ForeignUnsubmit = () => {
       </div>
 
       <h4>La procédure :</h4>
-      <ul><img src={Arrow} alt="Fleche verte" style={{transform: 'rotate(180deg)'}} />Opérations non imposable en France -Opération n'entrant pas dans le champ d'application de la TVA</ul>
+      <ul><img src={Arrow} alt="Fleche verte" style={{transform: 'rotate(180deg)'}} />Opération non imposable en France -Opération n'entrant pas dans le champ d'application de la TVA</ul>
       <ul><img src={Arrow} alt="Fleche verte" style={{transform: 'rotate(180deg)'}} />La TVA ne doit donc pas être appliquée - Facture hors taxes</ul>
 
       <hr />

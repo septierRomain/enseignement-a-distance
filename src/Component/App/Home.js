@@ -17,7 +17,7 @@ function Home() {
         <h1>Bonjour et bienvenue sur notre simulateur de TVA pour l'enseignement à distance</h1>
         <div id="side">
           <div id="learning">
-            <h4>Vous faites de la formation en ligne automatisé :</h4>
+            <h4>Vous faites de la formation en ligne automatisée :</h4>
             <ul><img src={Arrow} alt="Fleche verte" style={{transform: 'rotate(180deg)'}} />Vous diffusez en ligne des vidéos de cours (peinture, langue, sport, marketing...).
             Ces vidéos sont préenregistrées et diffusées de manière uniforme à vos acheteurs via des services Internet (votre site ou des plateformes).</ul>
             <ul><img src={Arrow} alt="Fleche verte" style={{transform: 'rotate(180deg)'}} />A l'exclusion des prestations d'enseignements expressément exonérées de TVA</ul>
