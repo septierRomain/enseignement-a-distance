@@ -24,12 +24,12 @@ const France = () => {
       <div className="breadcrumbs">
         <p><img src={Check} alt="fleche grise"/>Le preneur est assujetti à la TVA</p>
         <p><img src={Check} alt="fleche grise"/>Le preneur est établi en France</p>
-        <p><img src={Check} alt="fleche grise"/>Prestations entrant dans les régles générales</p>
+        <p><img src={Check} alt="fleche grise"/>Prestations d'enseignement à distance automatisées</p>
       </div>
 
       <hr />
       <div class='square'>
-        <p>En dehors des cas spécifiques mentionnés précédemment, les prestations de services réalisées au profit d'un assujetti à la TVA sont imposables en France si le preneur assujetti est établi en France, y dispose d'un établissement stable, sauf dans le cas où il dispose d'un établissement stable en dehors de France auquel les services sont fournis</p>
+        <p>Les prestations de services réalisées au profit d'un assujetti à la TVA sont imposables en France si le preneur assujetti est établi en France, y dispose d'un établissement stable, sauf dans le cas où il dispose d'un établissement stable en dehors de France auquel les services sont fournis</p>
       </div>
       <hr />
 
