@@ -20,7 +20,7 @@ function Home() {
             <h4>Vous faites de la formation en ligne automatisée :</h4>
             <ul><img src={Arrow} alt="Fleche verte" style={{transform: 'rotate(180deg)'}} />Vous diffusez en ligne des vidéos de cours (peinture, langue, sport, marketing...).
             Ces vidéos sont préenregistrées et diffusées de manière uniforme à vos acheteurs via des services Internet (votre site ou des plateformes).</ul>
-            <ul><img src={Arrow} alt="Fleche verte" style={{transform: 'rotate(180deg)'}} />A l'exclusion des prestations d'enseignements expressément exonérées de TVA</ul>
+            <ul><img src={Arrow} alt="Fleche verte" style={{transform: 'rotate(180deg)'}} />Les prestations d'enseignement expressément exonérées de TVA ne sont pas traitées dans ce simulateur</ul>
             <p>Si vous ne dispensez pas vos cours de manière automatisée, mais de manière individualisée, ce simulateur de TVA ne correspond pas à votre activité. Retrouvez parmi nos simulateurs, celui correspondant à votre activité : <a href="https://simulateur-prestations-services.netlify.app/">C'est par ici !</a></p>
           </div>
         </div>

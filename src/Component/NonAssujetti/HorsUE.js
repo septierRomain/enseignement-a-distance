@@ -35,7 +35,7 @@ const ForeignUnsubmit = () => {
       <div className='categorie' >
         <h4>Si vous êtes client Dougs : </h4>
         <ul><img src={Arrow} alt="Fleche verte" style={{transform: 'rotate(180deg)'}} />Sélectionnez la catégorie "Prestations de services exonérées"</ul>
-        <ul><img src={Arrow} alt="Fleche verte" style={{transform: 'rotate(180deg)'}} />Indiquez la raison “vente en Union Européenne" ou "vente hors Union Européenne”</ul>
+        <ul><img src={Arrow} alt="Fleche verte" style={{transform: 'rotate(180deg)'}} />Indiquez la raison "vente hors Union Européenne”</ul>
         <img src={PrestationExo} alt="Categorie UE" />
       </div>
 
